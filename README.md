@@ -1,5 +1,5 @@
 # project-02-watcha
-## predict rank of movies using NaiveBayes
+## predict rating of movies using NaiveBayes
 ---
 
 ![a link1](https://github.com/JKeun/project-02-watcha/blob/master/presentation/pdf1.png)
